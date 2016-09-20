@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CategoryTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2016-09-20T22:21:43" hostname="epicodus-20.local" time="0.257">
+  <properties/>
+  <testcase name="equals_returnsTrueIfNamesAretheSame" classname="CategoryTest" time="0.078"/>
+  <testcase name="getTasks_retrievesAllTasksFromDatabase_tasksList" classname="CategoryTest" time="0.098"/>
+  <testcase name="all_returnsAllInstancesOfCategory_true" classname="CategoryTest" time="0.025"/>
+  <testcase name="save_savesIntoDatabase_true" classname="CategoryTest" time="0.014"/>
+  <testcase name="getId_categoriesInstantiateWithAnId_1" classname="CategoryTest" time="0.009"/>
+  <testcase name="save_assignsIdToObject" classname="CategoryTest" time="0.015"/>
+  <testcase name="find_returnsCategoryWithSameId_secondCategory" classname="CategoryTest" time="0.018"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
