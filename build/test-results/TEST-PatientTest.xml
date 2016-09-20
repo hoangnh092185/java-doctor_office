@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PatientTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2016-09-20T23:38:56" hostname="epicodus-20.local" time="0.079">
+  <properties/>
+  <testcase name="save_returnsTrueIfPatientsAretheSame" classname="PatientTest" time="0.013"/>
+  <testcase name="equals_returnsTrueIfDescriptionsAretheSame" classname="PatientTest" time="0.004"/>
+  <testcase name="getDoctorId_returnsDoctorId_true" classname="PatientTest" time="0.003"/>
+  <testcase name="all_returnsAllInstantiatesOfPatient_true" classname="PatientTest" time="0.018"/>
+  <testcase name="getBirthdate_returnsBirthdate_true" classname="PatientTest" time="0.004"/>
+  <testcase name="getId_returnsId_true" classname="PatientTest" time="0.009"/>
+  <testcase name="patient_patientInstantiatesCorrectly_true" classname="PatientTest" time="0.004"/>
+  <testcase name="find_returnsPatientWithSameId_secondTask" classname="PatientTest" time="0.017"/>
+  <testcase name="getName_returnsName_true" classname="PatientTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
